@@ -72,7 +72,7 @@ export const cvData = {
   personal: {
     name: "Andrea Alfieri",
     role: "Web Developer Junior",
-    presentation: "Ho 26 anni e sono neo-laureato al Corso di Laurea in Informatica, presso Università degli Studi di Salerno. Appassionato di informatica già da piccolo, mi sono posto di fare della mia passione il mio lavoro. Lo scoutismo mi ha insegnato che nulla è impossibile. Mi reputo una persona precisa e responsabile, dotato di ottime doti relazionali e con buone capacità di gestione del tempo.",
+    presentation: "Ho 26 anni e sono neo-laureato al Corso di Laurea in Informatica, presso Università degli Studi di Salerno.\nAppassionato di informatica già da piccolo, mi sono posto di fare della mia passione il mio lavoro.\nLo scoutismo mi ha insegnato che nulla è impossibile.\nMi reputo una persona precisa e responsabile, dotato di ottime doti relazionali e con buone capacità di gestione del tempo.\n",
     email: "a.alfieri9@libero.it",
     linkedin: "www.linkedin.com/in/andrea-alfieri-942405232",
     github: "https://github.com/aalfieri"
